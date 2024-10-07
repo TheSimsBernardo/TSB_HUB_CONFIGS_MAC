@@ -1,0 +1,91 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2818
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 
+FP01.zip: Holiday Celebration Pack
+EP01.zip: Get to Work
+EP02.zip: Get Together
+EP03.zip: City Living
+EP04.zip: Cats & Dogs
+EP05.zip: Seasons
+EP06.zip: Get Famous
+EP07.zip: Island Living
+EP08.zip: Discover University
+EP09.zip: Eco Lifestyle
+EP10.zip: Snowy Escape
+EP11.zip: Cottage Living
+EP12.zip: High School Years
+EP13.zip: Growing Together
+EP14.zip: Horse Ranch
+EP15.zip: For Rent
+EP16.zip: Lovestruck
+EP17.zip: Life & Death
+GP01.zip: Outdoor Retreat
+GP02.zip: Spa Day
+GP03.zip: Dine Out
+GP04.zip: Vampires
+GP05.zip: Parenthood
+GP06.zip: Jungle Adventure
+GP07.zip: StrangerVille
+GP08.zip: Realm of Magic
+GP09.zip: Journey to Batuu
+GP10.zip: Dream Home Decorator
+GP11.zip: My Wedding Stories
+GP12.zip: Werewolves
+SP01.zip: Luxury Party Stuff
+SP02.zip: Perfect Patio Stuff
+SP03.zip: Cool Kitchen Stuff
+SP04.zip: Spooky Stuff
+SP05.zip: Movie Hangout Stuff
+SP06.zip: Romantic Garden Stuff
+SP07.zip: Kids Room Stuff
+SP08.zip: Backyard Stuff
+SP09.zip: Vintage Glamour Stuff
+SP10.zip: Bowling Night Stuff
+SP11.zip: Fitness Stuff
+SP12.zip: Toddler Stuff
+SP13.zip: Laundry Day Stuff
+SP14.zip: My First Pet Stuff
+SP15.zip: Moschino Stuff
+SP16.zip: Tiny Living Stuff
+SP17.zip: Nifty Knitting
+SP18.zip: Paranormal Stuff
+SP20.zip: Throwback Fit
+SP21.zip: Country Kitchen
+SP22.zip: Bust The Dust
+SP23.zip: Courtyard Oasis
+SP24.zip: Fashion Street
+SP25.zip: Industrial Loft 
+SP26.zip: Incheon Arrivals
+SP28.zip: Modern Menswear
+SP29.zip: Blooming Rooms
+SP30.zip: Carnaval Streetwear
+SP31.zip: Décor to the Max
+SP32.zip: Moonlight Chic
+SP33.zip: Little Campers
+SP34.zip: First Fits
+SP35.zip: Desert Luxe 
+SP36.zip: Pastel Pop
+SP37.zip: Everyday Clutter
+SP38.zip: Simtimates Collection
+SP39.zip: Bathroom Clutter
+SP40.zip: Greenhouse Haver
+SP41.zip: Basement Treasures
+SP42.zip: Grunge Revival 
+SP43.zip: Book Nook Kit
+SP44.zip: Poolside Splash
+SP45.zip: Modern Luxe
+SP46.zip: Home Chef Hustle
+SP47.zip: Goth Galore
+SP48.zip: Castle Estate
+SP49.zip: Crystal Creations
+SP50.zip: Urban Homage 
+SP51.zip: Party Essentials
+SP52.zip: Riviera Retreat
+SP53.zip: Cozy Bistro
+SP54.zip: Artist Studio
+SP55.zip: Storybook Nursery
