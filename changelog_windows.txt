@@ -1,0 +1,2 @@
+Version 2.2:
+- added artist studio + storybook nursery kits
