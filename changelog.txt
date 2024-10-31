@@ -1,2 +1,5 @@
+Version 0.5:
+- added Life & Death EP
+
 Version 0.4:
 - added artist studio + storybook nursery kits
